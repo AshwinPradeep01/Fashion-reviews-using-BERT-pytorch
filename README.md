@@ -6,4 +6,5 @@ such as positive, negative, or neutral.
 
 The Fine-Tuned BERT Model is provided in the drive given below:
 GDrive:https://drive.google.com/drive/folders/1nBlsJW_G8xanpEMJujS7d8UczI0H25T8?usp=drive_link
+Colab:https://colab.research.google.com/drive/1RPjL7m36pv-WR0RMEDu8m1pHVjpLmh_3
 
